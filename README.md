@@ -1,1 +1,2 @@
-# cse224
+# Academic Assignments
+
